@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/D7FNG2q
+    about: Join our Discord for real-time support, collaboration, and discussion about Ash.
+  - name: Answer Overflow
+    url: https://www.answeroverflow.com/c/1130115611767095336
+    about: Search our publicly accessible Discord support channels and community discussions.
+  - name: ElixirForum
+    url: https://elixirforum.com/c/ash-framework/123
+    about: Ask questions and see what others are building with Ash on Elixir Forum.

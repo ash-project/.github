@@ -1,0 +1,44 @@
+name: Bug Report
+description: File a bug report.
+labels: ["bug", "needs_review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: versions
+    attributes:
+      label: Versions
+      description: |
+        Please provide the relevant versions of Elixir, Erlang and any packages involved.
+        Please check if upgrading to the latest version resolves the issue.
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      description: The opera system that this issue is happening on.
+    validations:
+      required: true
+  - type: textarea
+    id: current-behavior
+    attributes:
+      label: Current Behavior
+      description: |
+        Include code samples, errors, and stacktraces if appropriate.
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: |
+        In order to fix any bug, we will need to be able to reproduce it.
+        Ideally, you will provide a minimal reproduction in a GitHub repository,
+        or even better, make a PR with a failing test case.
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: |
+        A short description of what you expected to happen.
