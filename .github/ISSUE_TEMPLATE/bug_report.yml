@@ -36,6 +36,12 @@ body:
         In order to fix any bug, we will need to be able to reproduce it.
         Ideally, you will provide a minimal reproduction in a GitHub repository,
         or even better, make a PR with a failing test case.
+
+        In liue of a failing test case, a reproduction should include:
+
+        - All required setup instructions
+        - Some automated step that is guaranteed to reproduce the same conditions,
+          i.e an automated test or a function in a module that can be called from `iex`.
   - type: textarea
     id: expected-behavior
     attributes:
