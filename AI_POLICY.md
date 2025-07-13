@@ -52,6 +52,6 @@ advice on prompting your agent if you _must_ use one to generate an issue or pro
 - If you are making pull requests, make _the smallest reasonable pull request possible_. This is true regardless of
   AI usage, but especially necessary to keep in mind in the context of AI, otherwise you risk overloading our team.
 - When opening an issue, provide the [appropriate issue template](https://github.com/ash-project/.github/tree/main/.github/ISSUE_TEMPLATE) to your agent.
-- When opening a pull request, provide the [pull request template](https://github.com/ash-project/.github/blob/main/PULL_REQUEST_TEMPLATE.md) to your agen.t
+- When opening a pull request, provide the [pull request template](https://github.com/ash-project/.github/blob/main/PULL_REQUEST_TEMPLATE.md) to your agent.
 - When in doubt, copy this entire document into your prompt and ask the agent what you should do 🙂
 - If the project you are contributing to has an AGENTS.md file, it is expected that you use it in your agent context.
