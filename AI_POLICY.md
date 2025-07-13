@@ -14,6 +14,8 @@ ban or otherwise remove from participation anyone caught breaking them.
 - AI can produce a lot of text. Just because you can write a 500 line github issue does not mean our team has time to read it. Be prudent.
 - We offer [guidelines and prompting advice](#guidelines) on how to most effectively use AI, 
   but do not encourage or require its use. The tools you use are your own business.
+- If the project you are contributing to has an AGENTS.md file, it is expected that you use it in your agent context. The presence of an
+  AGENTS.md file does not explicitly condone or request AI usage.
 
 ## Your Own Voice
 
@@ -52,3 +54,4 @@ advice on prompting your agent if you _must_ use one to generate an issue or pro
 - When opening an issue, provide the [appropriate issue template](https://github.com/ash-project/.github/tree/main/.github/ISSUE_TEMPLATE) to your agent.
 - When opening a pull request, provide the [pull request template](https://github.com/ash-project/.github/blob/main/PULL_REQUEST_TEMPLATE.md) to your agen.t
 - When in doubt, copy this entire document into your prompt and ask the agent what you should do 🙂
+- If the project you are contributing to has an AGENTS.md file, it is expected that you use it in your agent context.
