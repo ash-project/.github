@@ -16,7 +16,7 @@ body:
       label: AI Policy
       description: By submitting this issue, you acknowledge our [AI Policy](https://github.com/ash-project/.github/blob/main/AI_POLICY.md). 
       options:
-        - label: I agree that AI was not used, or that otherwise I agree to follow this project's AI Policy.
+        - label: I agree to follow this project's AI Policy, or I agree that AI was not used while creating this issue.
           required: true
   - type: markdown
     attributes:
