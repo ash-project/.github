@@ -16,6 +16,7 @@ ban or otherwise remove from participation anyone caught breaking them.
   but do not encourage or require its use. The tools you use are your own business.
 - If the project you are contributing to has an AGENTS.md file, it is expected that you use it in your agent context. The presence of an
   AGENTS.md file does not explicitly condone or request AI usage.
+- Security and vulnerability reports are special cases whereby an LLM must not be involved in essentially any way.
 
 ## Your Own Voice
 
@@ -58,6 +59,12 @@ Less is more.
 When opening Github issues, for example, AI often generates overly long-winded and assumption-filled issues and proposals. 
 Stick to the essential and verifiable information only. See the [guidelines](#guidelines) below for
 advice on prompting your agent if you _must_ use one to generate an issue or proposal description.
+
+## Security & Vulnerability Reports
+
+Security & vulnerability reports are a special case to this policy because of their increased demand for urgent attention from our team.
+These issues/reports must be reproduced, written, verified, and analyzed by a human being. We simply cannot allow there to be a machine-to-team
+pipeline for high-priority security-related issues.
 
 ## Guidelines
 
