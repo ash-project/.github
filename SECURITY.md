@@ -9,6 +9,12 @@ This repository follows the [OpenSSF Vulnerability Disclosure guide](https://git
 Please report vulnerabilities via the [GitHub Security Vulnerability Reporting](https://github.com/ash-project/ash/security/advisories/new)
 or via email to [`security@ash-hq.org`](mailto:security@ash-hq.org) if this does not work for you.
 
+## AI Policy
+
+See the [Security & Vulnerability Reports section of the AI Policy](https://github.com/ash-project/.github/blob/main/AI_POLICY.md#security--vulnerability-reports) before proceeding.
+
+## Response Time
+
 Someone from the core team respond within 3 working days of your
 report. If the issue is confirmed as a vulnerability, we will open a Security
 Advisory. This project follows a 90 day disclosure timeline.
