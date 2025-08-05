@@ -1,6 +1,7 @@
 name: Feature Proposal
 description: Suggest an idea for this project.
 labels: ["enhancement", "needs_review"]
+type: Feature
 body:
   - type: checkboxes
     id: code-of-conduct
