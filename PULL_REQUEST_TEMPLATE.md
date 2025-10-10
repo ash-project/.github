@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Zach Daniel
+
+SPDX-License-Identifier: MIT
+-->
+
 # Contributor checklist
 
 Leave anything that you believe does not apply unchecked.
