@@ -1,9 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2025 Zach Daniel
-
-SPDX-License-Identifier: MIT
--->
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

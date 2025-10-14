@@ -1,9 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2025 Zach Daniel
-
-SPDX-License-Identifier: MIT
--->
-
 # Security Policy
 
 [![OpenSSF Vulnerability Disclosure](https://img.shields.io/badge/OpenSSF-Vulnerability_Disclosure-green)](https://github.com/ossf/oss-vulnerability-guide/blob/main/finder-guide.md)

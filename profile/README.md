@@ -1,9 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2025 Zach Daniel
-
-SPDX-License-Identifier: MIT
--->
-
 ![Logo](https://github.com/ash-project/ash/blob/main/logos/cropped-for-header-black-text.png?raw=true#gh-light-mode-only)
 ![Logo](https://github.com/ash-project/ash/blob/main/logos/cropped-for-header-white-text.png?raw=true#gh-dark-mode-only)
 
